@@ -2,14 +2,14 @@
 
 Sistema de gestión de publicaciones periodísticas enfocado en la administración de artículos, autores y categorías. Este proyecto digitaliza el flujo de trabajo de un medio digital, permitiendo mantener un registro histórico y auditable de los estados de cada publicación. Desarrollado para la asignatura de Programación Backend en INACAP.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3
 * **Framework:** Django
 * **Base de Datos:** SQLite (entorno de desarrollo) / MariaDB (producción)
 * **Herramientas:** Entorno virtual (venv), Git, VS Code en Linux
 
-## 🚀 Instalación y Uso (Entorno Linux)
+##  Instalación y Uso (Entorno Linux)
 
 Sigue estos pasos para levantar el entorno de desarrollo de manera local:
 
@@ -27,7 +27,7 @@ Sigue estos pasos para levantar el entorno de desarrollo de manera local:
 6. Iniciar el servidor local:
    `python manage.py runserver`
 
-## ⚙️ Características Principales
+##  Características Principales
 
 * **Panel de Administración Segurizado:** Gestión completa (CRUD) de Autores, Categorías y Noticias directamente desde `/admin/`.
 * **Vistas Personalizadas:** Interfaz de bienvenida en la raíz del sitio y manejo global de errores para enlaces rotos (Error 404).
